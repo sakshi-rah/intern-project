@@ -1,0 +1,28 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-image: linear-gradient( 123.5deg,  rgba(244,219,251,1) 29.3%, rgba(255,214,214,1) 67.1% );
+}
+.leftbox{
+    padding: 10px;
+    width: 600px;
+}
+.combo-img{
+    width: 25rem;
+
+}
+.combo-img:hover{
+    transform: scale(1.1);
+    transition: all 0.3s 0.1s ease;
+    filter: drop-shadow(0 0 0.78rem #352e3a);
+}
+.leftbox-item{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.leftbox-item h1{
+    color: #662d91;
+    font-size: 3.5rem;
+}
