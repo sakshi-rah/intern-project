@@ -19,7 +19,7 @@ body{
 .combo-img:hover{
     transform: scale(1.1);
     transition: all 0.3s 0.1s ease;
-    filter: drop-shadow(0 0 0.78rem #352e3a);
+    filter: drop-shadow(0 0 0.78rem #4a3857b4);
 }
 .leftbox-item{
     font-family: Georgia, 'Times New Roman', Times, serif;
