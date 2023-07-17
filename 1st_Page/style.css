@@ -4,7 +4,9 @@
     box-sizing: border-box;
 }
 body{
-    background-image: linear-gradient( 123.5deg,  rgba(244,219,251,1) 29.3%, rgba(255,214,214,1) 67.1% );
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100vw;
 }
 .leftbox{
     padding: 10px;
