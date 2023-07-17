@@ -1,0 +1,14 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.leftbox{
+    padding: 10px;
+}
+.combo-img{
+    width: 23rem;
+}
+.leftbox-item{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
