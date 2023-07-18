@@ -8,6 +8,8 @@ body{
     height: 100vh;
     width: 100vw;
 }
+
+
 .leftbox{
     padding: 10px;
     width: 600px;
@@ -19,7 +21,7 @@ body{
 .combo-img:hover{
     transform: scale(1.1);
     transition: all 0.3s 0.1s ease;
-    filter: drop-shadow(0 0 0.78rem #4a3857b4);
+    filter: drop-shadow(0 0 0.78rem #a070c5ce);
 }
 .leftbox-item{
     font-family: Georgia, 'Times New Roman', Times, serif;
