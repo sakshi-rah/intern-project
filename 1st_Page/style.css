@@ -109,3 +109,7 @@ body {
     background-color: #cf0e0e;
 
 }
+.card-animation:hover{
+    transform: scale(1.1);
+    transition: all 0.5s 0.1s linear;
+}
