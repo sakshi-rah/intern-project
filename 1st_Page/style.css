@@ -50,21 +50,16 @@ body {
     border: none;
 }
 
-.social-menu {
-    width: 20em;
-    padding: 0.5em;
-    margin: auto;
-
-}
 
 .social-menu ul {
     display: flex;
-    margin: auto;
+    justify-content: space-evenly;
+    padding: 0%;
 }
 
 .social-menu ul li {
     list-style: none;
-    margin-left: 1.5em;
+    
 }
 
 .social-menu ul li .fab {
@@ -113,6 +108,6 @@ body {
 
 }
 .card-animation:hover{
-    transform: scale(1.1);
+    transform: scale(1.05);
     transition: all 0.5s 0.1s linear;
 }
